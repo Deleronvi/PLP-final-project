@@ -1,3 +1,6 @@
 [submodule "Telemed-frontend"]
 	path = Telemed-frontend
 	url = https://github.com/Deleronvi/Telemed-frontend.git
+[submodule "Telemed-backend"]
+	path = Telemed-backend
+	url = https://github.com/Deleronvi/Telemed-backend.git
